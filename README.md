@@ -1,0 +1,2 @@
+# OpenCV_multicore_programming
+OpenCV Multicore Programming
